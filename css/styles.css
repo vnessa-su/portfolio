@@ -1,10 +1,10 @@
 body.page-container {
   font-family: sans-serif;
   margin: auto;
-  padding: 15px;
+  padding: 30px;
 }
 
-.headline{
+.headline {
   text-align: center;
   margin-bottom: 10px;
 }
@@ -13,6 +13,7 @@ body.page-container {
   border: solid grey;
   border-width: 0px;
   border-bottom-width: 2px;
+  border-style: groove;
 }
 
 img {
@@ -21,6 +22,10 @@ img {
   height: auto;
   width: auto;
   display: block;
+  border: solid green;
+  border-width: 5px;
+  border-style: inset;
+  border-radius: 10px;
 }
 
 .date-span {
@@ -29,13 +34,20 @@ img {
 
 .experience-set div{
   padding-bottom: 10px;
-  padding-left: 10px;
+  padding-left: 80px;
+  padding-right: 80px
 }
 
-.experience-set p{
+.experience-set p {
   margin: 2px;
 }
 
 p.skills {
-  padding-left: 10px;
+  padding-left: 80px;
+}
+
+ul {
+  margin-top: 2px;
+  margin-bottom: 10px;
+  padding-left: 20px;
 }
