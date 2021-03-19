@@ -1,0 +1,10 @@
+.headline {
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.section {
+  border: solid grey;
+  border-width: 0px;
+  border-bottom-width: 2px;
+}
