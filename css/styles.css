@@ -16,3 +16,16 @@ img {
   width: auto;
   display: block;
 }
+
+.date-span {
+  float: right;
+}
+
+.experience-set div{
+  padding-bottom: 10px;
+  padding-left: 5px;
+}
+
+.experience-set p{
+  margin: 5px;
+}
