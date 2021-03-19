@@ -1,6 +1,12 @@
-.headline {
+body.page-container {
+  font-family: sans-serif;
+  margin: auto;
+  padding: 15px;
+}
+
+.headline{
   text-align: center;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }
 
 .section {
@@ -23,9 +29,9 @@ img {
 
 .experience-set div{
   padding-bottom: 10px;
-  padding-left: 5px;
+  padding-left: 10px;
 }
 
 .experience-set p{
-  margin: 5px;
+  margin: 2px;
 }
