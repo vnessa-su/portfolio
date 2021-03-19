@@ -11,7 +11,8 @@
 
 img {
   margin: auto;
-  max-height: 20%;
+  max-width: 300px;
+  height: auto;
   width: auto;
   display: block;
 }
