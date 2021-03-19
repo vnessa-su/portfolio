@@ -35,3 +35,7 @@ img {
 .experience-set p{
   margin: 2px;
 }
+
+p.skills {
+  padding-left: 10px;
+}
