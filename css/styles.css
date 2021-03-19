@@ -8,3 +8,10 @@
   border-width: 0px;
   border-bottom-width: 2px;
 }
+
+img {
+  margin: auto;
+  max-height: 20%;
+  width: auto;
+  display: block;
+}
